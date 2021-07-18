@@ -1,0 +1,13 @@
+cat ./pull/glid.CAU.txt | perl gl_greedy_5loc.pl CAU ./pull/pull.CAU.txt ./greedy/ ./cfg/ 0.999 0.9999
+cat ./pull/glid.AAFA_CARB.txt | perl gl_greedy_5loc.pl AAFA_CARB ./pull/pull.AAFA_CARB.txt ./greedy/ ./cfg/ 0.999 0.9999
+cat ./pull/glid.AAFA_NAMER.txt | perl gl_greedy_5loc.pl AAFA_NAMER ./pull/pull.AAFA_NAMER.txt ./greedy/ ./cfg/ 0.999 0.9999
+cat ./pull/glid.FILII_NAMER.txt | perl gl_greedy_5loc.pl FILII_NAMER ./pull/pull.FILII_NAMER.txt ./greedy/ ./cfg/ 0.999 0.9999
+cat ./pull/glid.MENAFC_NAMER.txt | perl gl_greedy_5loc.pl MENAFC_NAMER ./pull/pull.MENAFC_NAMER.txt ./greedy/ ./cfg/ 0.999 0.9999
+cat ./pull/glid.AAFA_CARB_3000.txt | perl gl_greedy_5loc.pl AAFA_CARB_3000 ./pull/pull.AAFA_CARB_3000.txt ./greedy/ ./cfg/ 0.999 0.9999
+cat ./pull/glid.AAFA_NAMER_3000.txt | perl gl_greedy_5loc.pl AAFA_NAMER_3000 ./pull/pull.AAFA_NAMER_3000.txt ./greedy/ ./cfg/ 0.999 0.9999
+cat ./pull/glid.FILII_NAMER_3000.txt | perl gl_greedy_5loc.pl FILII_NAMER_3000 ./pull/pull.FILII_NAMER_3000.txt ./greedy/ ./cfg/ 0.999 0.9999
+cat ./pull/glid.MENAFC_NAMER_3000.txt | perl gl_greedy_5loc.pl MENAFC_NAMER_3000 ./pull/pull.MENAFC_NAMER_3000.txt ./greedy/ ./cfg/ 0.999 0.9999
+cat ./pull/glid.MR.txt | perl gl_greedy_5loc.pl MR ./pull/pull.MR.txt ./greedy/ ./cfg/ 0.999 0.9999
+cat ./pull/glid.MR_1000.txt | perl gl_greedy_5loc.pl MR_1000 ./pull/pull.MR_1000.txt ./greedy/ ./cfg/ 0.999 0.9999
+cat ./pull/glid.MR_3000.txt | perl gl_greedy_5loc.pl MR_3000 ./pull/pull.MR_3000.txt ./greedy/ ./cfg/ 0.999 0.9999
+cat ./pull/glid.MR_10000.txt | perl gl_greedy_5loc.pl MR_10000 ./pull/pull.MR_10000.txt ./greedy/ ./cfg/ 0.999 0.9999
